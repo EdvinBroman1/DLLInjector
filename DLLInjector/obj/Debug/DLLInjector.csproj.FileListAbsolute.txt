@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\DLLInjector\DLLInjector\bin\Debug\DLLInjector.exe.config
+C:\Users\Admin\source\repos\DLLInjector\DLLInjector\bin\Debug\DLLInjector.exe
+C:\Users\Admin\source\repos\DLLInjector\DLLInjector\bin\Debug\DLLInjector.pdb
+C:\Users\Admin\source\repos\DLLInjector\DLLInjector\obj\Debug\DLLInjector.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\DLLInjector\DLLInjector\obj\Debug\DLLInjector.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DLLInjector\DLLInjector\obj\Debug\DLLInjector.exe
+C:\Users\Admin\source\repos\DLLInjector\DLLInjector\obj\Debug\DLLInjector.pdb
